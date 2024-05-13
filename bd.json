@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "imagen": "./img/Stormtrooper.png",
+        "producto": "Stormtrooper ",
+        "precio": 60.00
+    },
+    {
+      "id": 2,
+      "imagen": "./img/Game Boy Classic.png",
+      "producto": "Game Boy Classic",
+      "precio": 60.00
+    },
+    {
+        "id": 3,
+        "imagen": "./img/R2d2.png",
+        "producto": "R2D2",
+        "precio": 54.00
+    },
+    {
+        "id": 4,
+        "imagen": "./img/Darth.png",
+        "producto": "Darth",
+        "precio": 47.404
+    },
+    {
+        "id": 5,
+        "imagen": "./img/Storm.png",
+        "producto": "Storm",
+        "precio": 49.00
+    },
+    {
+        "id": 6,
+        "imagen": "./img/Yoda.png",
+        "producto": "Yoda",
+        "precio": 90.00
+    }
+  ]   
